@@ -25,7 +25,11 @@ body {
   }
 
   .top {
-    text-align: center;
+    margin-top: 2rem;
   }
+
+  .top-body {
+    text-align: center;
+   }
   
 }
